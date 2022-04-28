@@ -1,6 +1,6 @@
 
 
-# My solution to the qr-code-component challenge over at [Frontend Mentor](https://www.frontendmentor.io/challenges)
+# My first project in total and solution to the qr-code-component challenge over at [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
 ## This was the assignment
 
