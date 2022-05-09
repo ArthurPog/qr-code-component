@@ -33,7 +33,7 @@ My goals for this project were to:
 
 ## This is my solution
 
-[Click here to see the live page](https://arthurpog.github.io/meet-landing-page/)
+[Click here to see the live page](https://arthurpog.github.io/qr-code-component/)
 
 ![](./design/my_solution.png)
 
