@@ -29,7 +29,7 @@ My goals for this project were to:
 
 ## This was the design
 
-![](./design/desktop-design.png)
+![](./design/desktop-design.jpg)
 
 ## This is my solution
 
