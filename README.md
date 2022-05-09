@@ -43,6 +43,6 @@ I mainly learned to vertically center something on a page which was so much hard
 
 ## Tools used
 
-**CodePen** - I coded this whole thing in CodePen because I wanted to be introduced to any new IDE's just yet.
+- **CodePen** - I coded this whole thing in CodePen because I wanted to be introduced to any new IDE's just yet.
 
 - **Microsoft PowerToys** - A nifty little program from Microsoft adding a *plethora* of UI functionality to Windows. What I use most for coding is CTRL+WIN+C it brings up a colour picker, and when I hover over something or click something it shows me the HEX, RGB, HSL and CMYK values of the colour that can instantly be copied to the clipboard and in addition to this it keeps a history of all the colours picked. Amazing!
