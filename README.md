@@ -39,15 +39,7 @@ My goals for this project were to:
 
 ## <a name="#what-i-learned"></a>What I learned
 
-Apart from using `display: grid;` for the first time and playing with it a little bit to mainly centre my page and display some illustrative images, I designed my first mobile-first approach website and realized that this is the more intuitive way to build sites, because it's so much more simpler than a desktop first approach.
-
-I learned that I can put a negative padding on elements to make them overflow when at 100% width.
-
-Courtesy of [Vanza Setia](https://github.com/vanzasetia) and his advice I learned to use `em` units in media queries instead of pixels (such as @media (min-width: 64em) because it is simply the more reliable way to set these conditions across all devices as per [this article](https://zellwk.com/blog/media-query-units/).
-
-Also courtesy of [Vanza Setia](https://github.com/vanzasetia) and his code I learned that there are such things as `::before` and `::after` pseudo-elements and I'm looking forward to using them in my future project.
-
-And one last thing regarding learning from the best. Vanza's comment lead me to read up more in-depth regarding the use of anchors and buttons and I realized the destinction between them better. Buttons should be used when carrying out a function within the site, like an in-page calculator, basically things using JavaScript and anchors should be used to navigate around and they often lead to downloads, external links and so on.
+I mainly learned to vertically center something on a page which was so much harder then I initially thought it would be.
 
 ## Tools used
 
